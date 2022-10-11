@@ -2,7 +2,6 @@
 
 Pagina de Login
 
-![Screenshot_20221010-233537](https://user-images.githubusercontent.com/63308965/195135122-211924e9-3520-403c-9a45-44563a016886.png)
 
 
 ## Getting Started
