@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291326511964",
+    "project_id": "album-da-copa-do-mundo",
+    "storage_bucket": "album-da-copa-do-mundo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291326511964:android:531e895299a542f184cf99",
+        "android_client_info": {
+          "package_name": "online.stickers.worldcup2022.albumm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291326511964-psvgsh92s4rnk0k4pbifdba7v5qms3f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjbPIWVv5WD6H7rk_D-LiSKvmzMox5Tys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291326511964-psvgsh92s4rnk0k4pbifdba7v5qms3f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
